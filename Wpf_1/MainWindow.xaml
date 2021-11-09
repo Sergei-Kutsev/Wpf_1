@@ -8,7 +8,9 @@
         Title="Калькулятор" Height="550" Width="350">
     <Grid>
         <Button HorizontalAlignment="Center" Margin="0,0,0,0" VerticalAlignment="Bottom" Width="350" Height="369" Click="Button_Click" BorderThickness="1" Background="#FFC6CDC7"/>
-        <Button Content="" HorizontalAlignment="Center" Margin="0" VerticalAlignment="Top" Width="350" Height="167" Click="Button_Click" Background="#FFDDECE3" Foreground="#FFE7EEE7"/>
+        <Button HorizontalAlignment="Center" Margin="0" VerticalAlignment="Top" Width="350" Height="167" Click="Button_Click" Background="#FFDDECE3" Foreground="#FFE7EEE7">
+            <TextBlock TextWrapping="Wrap" Text="_" Cursor="None" Height="146" Width="330" FontSize="50" Foreground="Black" FlowDirection="RightToLeft" FontFamily="AmdtSymbols" FontWeight="Bold" Padding="0,90,0,0"/>
+        </Button>
 
         <Button Content="СЕ" HorizontalAlignment="Left" VerticalAlignment="Top" Margin ="0,169,0,0" Width="85" Height="70" FontSize="45" Background="#FFA2C5C2" FontFamily="AmdtSymbols"/>
         <Button Content="С" HorizontalAlignment="Left" VerticalAlignment="Top" Margin ="86,169,0,0" Width="85" Height="70" FontSize="45" Background="#FFA2C5C2" FontFamily="AmdtSymbols"/>
