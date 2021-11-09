@@ -12,27 +12,27 @@
             <TextBlock TextWrapping="Wrap" Text="3,14159" Cursor="None" Height="146" Width="330" FontSize="50" Foreground="Black" FlowDirection="RightToLeft" FontFamily="AmdtSymbols" Padding="0,90,0,0"/>
         </Button>
 
-        <Button Content="СЕ" HorizontalAlignment="Left" VerticalAlignment="Top" Margin ="0,169,0,0" Width="85" Height="70" FontSize="45" Background="#FFA2C5C2" FontFamily="AmdtSymbols"/>
-        <Button Content="С" HorizontalAlignment="Left" VerticalAlignment="Top" Margin ="86,169,0,0" Width="85" Height="70" FontSize="45" Background="#FFA2C5C2" FontFamily="AmdtSymbols"/>
-        <Button Content="⌫" HorizontalAlignment="Left" VerticalAlignment="Top" Margin ="172,169,0,0" Width="85" Height="70" FontSize="45" Background="#FFA2C5C2" FontFamily="AmdtSymbols"/>
-        <Button Content="÷" VerticalAlignment="Top" Margin ="258,169,0,0" Height="70" FontSize="45" Background="#FFA2C5C2" FontFamily="AmdtSymbols"/>
+        <Button Content="СЕ" HorizontalAlignment="Left" VerticalAlignment="Top" Margin ="0,169,0,0" Width="85" Height="70" FontSize="25" Background="#FFA2C5C2" FontFamily="AmdtSymbols"/>
+        <Button Content="С" HorizontalAlignment="Left" VerticalAlignment="Top" Margin ="86,169,0,0" Width="85" Height="70" FontSize="25" Background="#FFA2C5C2" FontFamily="AmdtSymbols"/>
+        <Button Content="⌫" HorizontalAlignment="Left" VerticalAlignment="Top" Margin ="172,169,0,0" Width="85" Height="70" FontSize="25" Background="#FFA2C5C2" FontFamily="AmdtSymbols"/>
+        <Button Content="÷" VerticalAlignment="Top" Margin ="258,169,0,0" Height="70" FontSize="30" Background="#FFA2C5C2" FontFamily="AmdtSymbols"/>
 
         <Button Content="1" HorizontalAlignment="Left" VerticalAlignment="Top" Margin ="0,239,0,0" Width="85" Height="70" FontSize="45" Background="#FFA2C5C2" FontFamily="AmdtSymbols"/>
         <Button Content="2" HorizontalAlignment="Left" VerticalAlignment="Top" Margin ="86,239,0,0" Width="85" Height="70" FontSize="45" Background="#FFA2C5C2" FontFamily="AmdtSymbols"/>
         <Button Content="3" HorizontalAlignment="Left" VerticalAlignment="Top" Margin ="172,239,0,0" Width="85" Height="70" FontSize="45" Background="#FFA2C5C2" FontFamily="AmdtSymbols"/>
-        <Button Content="х" HorizontalAlignment="Left" VerticalAlignment="Top" Margin ="258,239,0,0" Width="85" Height="70" FontSize="45" Background="#FFA2C5C2" FontFamily="AmdtSymbols"/>
+        <Button Content="х" HorizontalAlignment="Left" VerticalAlignment="Top" Margin ="258,239,0,0" Width="85" Height="70" FontSize="30" Background="#FFA2C5C2" FontFamily="AmdtSymbols"/>
         <Button Content="4" HorizontalAlignment="Left" VerticalAlignment="Top" Margin ="0,309,0,0" Width="85" Height="70" FontSize="45" Background="#FFA2C5C2" FontFamily="AmdtSymbols"/>
         <Button Content="5" HorizontalAlignment="Left" VerticalAlignment="Top" Margin ="86,309,0,0" Width="85" Height="70" FontSize="45" Background="#FFA2C5C2" FontFamily="AmdtSymbols"/>
         <Button Content="6" HorizontalAlignment="Left" VerticalAlignment="Top" Margin ="172,309,0,0" Width="85" Height="70" FontSize="45" Background="#FFA2C5C2" FontFamily="AmdtSymbols"/>
-        <Button Content="-" HorizontalAlignment="Left" VerticalAlignment="Top" Margin ="258,309,0,0" Width="85" Height="70" FontSize="45" Background="#FFA2C5C2" FontFamily="AmdtSymbols"/>
+        <Button Content="-" HorizontalAlignment="Left" VerticalAlignment="Top" Margin ="258,309,0,0" Width="85" Height="70" FontSize="30" Background="#FFA2C5C2" FontFamily="AmdtSymbols"/>
         <Button Content="7" HorizontalAlignment="Left" VerticalAlignment="Top" Margin ="0,379,0,0" Width="85" Height="70" FontSize="45" Background="#FFA2C5C2" FontFamily="AmdtSymbols"/>
         <Button Content="8" HorizontalAlignment="Left" VerticalAlignment="Top" Margin ="86,379,0,0" Width="85" Height="70" FontSize="45" Background="#FFA2C5C2" FontFamily="AmdtSymbols"/>
         <Button Content="9" HorizontalAlignment="Left" VerticalAlignment="Top" Margin ="172,379,0,0" Width="85" Height="70" FontSize="45" Background="#FFA2C5C2" FontFamily="AmdtSymbols"/>
-        <Button Content="+" HorizontalAlignment="Left" VerticalAlignment="Top" Margin ="258,379,0,0" Width="85" Height="70" FontSize="45" Background="#FFA2C5C2" FontFamily="AmdtSymbols"/>
+        <Button Content="+" HorizontalAlignment="Left" VerticalAlignment="Top" Margin ="258,379,0,0" Width="85" Height="70" FontSize="30" Background="#FFA2C5C2" FontFamily="AmdtSymbols"/>
         <Button Content="+/-" HorizontalAlignment="Left" VerticalAlignment="Top" Margin ="0,449,0,0" Width="85" Height="70" FontSize="30" Background="#FFA2C5C2" FontFamily="AmdtSymbols"/>
         <Button Content="0" HorizontalAlignment="Left" VerticalAlignment="Top" Margin ="86,449,0,0" Width="85" Height="70" FontSize="45" Background="#FFA2C5C2" FontFamily="AmdtSymbols"/>
-        <Button Content="." HorizontalAlignment="Left" VerticalAlignment="Top" Margin ="172,449,0,0" Width="85" Height="70" FontSize="45" Background="#FFA2C5C2" FontFamily="AmdtSymbols"/>
-        <Button Content="=" HorizontalAlignment="Left" VerticalAlignment="Top" Margin ="258,449,0,0" Width="85" Height="70" FontSize="45" Background="#FFA2C5C2" FontFamily="AmdtSymbols"/>
+        <Button Content="." HorizontalAlignment="Left" VerticalAlignment="Top" Margin ="172,449,0,0" Width="85" Height="70" FontSize="30" Background="#FFA2C5C2" FontFamily="AmdtSymbols"/>
+        <Button Content="=" HorizontalAlignment="Left" VerticalAlignment="Top" Margin ="258,449,0,0" Width="85" Height="70" FontSize="30" Background="#FFA2C5C2" FontFamily="AmdtSymbols"/>
 
     </Grid>
 </Window>
